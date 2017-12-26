@@ -1,5 +1,5 @@
 
-
+# Hello
 class checkCompounds:
     @classmethod
     def isGroupExist11(cls, group):
