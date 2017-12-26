@@ -8,7 +8,7 @@
 # first bond is also considered. bracket alway attached with a group therefore the bracket valancy is added
 # to the corresponding group.
 # Segment has to be
-#
+# Hellllllll
 
  # import os
  # os.chdir('/usr/local/WorkSpace/PycharmProjects/nmrShifts/')
