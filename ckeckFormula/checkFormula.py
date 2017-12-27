@@ -18,7 +18,7 @@
  # from spetralData.hello import *
  #
  # from compounds.checkCompound import *
- # hhhHHHHHHHHHH
+ # hhhHHHHHHHHHHHHHH
  # from gui.checkCompound import *
 
 def isGroupExist1(group):
