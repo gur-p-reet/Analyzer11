@@ -19,7 +19,7 @@
  #
  # from compounds.checkCompound import *
  # hhhHHHHHHHHHHHHHH
- # Hello111
+ # Hello11222
  # from gui.checkCompound import *
 
 def isGroupExist1(group):
